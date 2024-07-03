@@ -1,0 +1,83 @@
+h1{
+    color: cadetblue;
+    text-align: center;
+}
+table,
+td {
+    height: 100px;
+    width: 400px;
+    border: 1px solid red;
+    vertical-align: bottom;
+    
+}
+.text{
+    direction: rtl;
+    color: rgb(220, 20, 60);
+    text-transform: uppercase;
+    text-decoration: overline red 3px;
+    text-emphasis: dot;
+    font-size: 20px;
+}
+.css{
+    direction: ltr;
+    color: blueviolet;
+    text-transform: lowercase;
+    text-decoration: line-through goldenrod 1px;
+    text-emphasis: circle red;
+    font-size: 20px;
+}
+.triangle{
+    text-decoration: underline fuchsia 2px;
+    text-emphasis: triangle;
+    font-size: 20px;
+}
+.green{
+    font-size: 20px;
+    text-emphasis:double-circle green;
+    text-indent: 2cm;
+}
+.sesame{
+    font-size: 20px;
+    text-emphasis:sesame ;
+    text-indent: 2in;  
+    letter-spacing: -1px;  
+    word-spacing: 10pt;                            
+}
+.open{
+    font-size: 20px;
+    text-emphasis: open;
+    text-indent: 5%;
+    letter-spacing: 4px;
+    word-spacing: -1px;
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+h3{
+    color: chocolate;
+}
+.pre{
+    white-space: pre;
+}
+.nowrap{
+    white-space: nowrap;
+}
+.preline{
+    white-space: pre-line;
+}
+.pwrap{
+    white-space:pre-wrap;
+}
+.abcd{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+.ab{
+    font-family:"PT Serif",
+        serif; 
+}
+.sd{
+    text-shadow: 5px 5px 1px gray;
+    font-size: 25px;
+}

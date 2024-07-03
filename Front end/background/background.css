@@ -1,0 +1,120 @@
+h3{
+    color: darkcyan;
+    text-align: center;
+}
+p{
+    background-color: blueviolet;
+    color:skyblue;
+}
+.bg{
+    background-image: url(../image/profile10.png);
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    border: 1px dotted black;
+    
+}
+.ab{
+    color: crimson;
+}
+.repeatx{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat: repeat-x;
+        border: 1px dotted black;
+}
+.repeaty{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat: repeat-y;
+        border: 1px dotted black;
+}
+.repeat{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat:repeat;
+        border: 1px dotted black;
+}
+.left{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat: no-repeat;
+        border: 1px dotted black;
+        background-position-x: left;
+    }
+ .right{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat:no-repeat ;
+        border: 1px dotted black;
+        background-position-x: right;
+    }
+  .center {
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 500px;
+      background-repeat: no-repeat ;
+      border: 1px dotted black;
+      background-position-x: center;
+  }
+    .px{
+            background-image: url(../image/profile10.png);
+            height: 500px;
+            width: 500px;
+            background-repeat: no-repeat ;
+            border: 1px dotted black;
+            background-position-x: 100px;
+        }
+  .per{
+    background-image: url(../image/profile10.png);
+        height: 500px;
+        width: 500px;
+        background-repeat: no-repeat;
+        border: 1px dotted black;
+        background-position-x:75%;
+  } 
+  .top{
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 500px;
+      background-repeat: no-repeat;
+      border: 1px dotted black;
+      background-position-y:top;
+  }
+  .bottom {
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 500px;
+      background-repeat: no-repeat;
+      border: 1px dotted black;
+      background-position-y: bottom;
+  }
+  .cr {
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 500px;
+      background-repeat: no-repeat;
+      border: 1px dotted black;
+      background-position-y:center;
+  }
+  .pl {
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 600px;
+      background-repeat: no-repeat;
+      border: 1px dotted black;
+      background-position-y: 80px;
+  }
+  .pr{
+      background-image: url(../image/profile10.png);
+      height: 500px;
+      width: 700px;
+      background-repeat: no-repeat;
+      border: 1px dotted black;
+      background-position-y:75%;
+  }

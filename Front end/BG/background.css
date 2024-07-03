@@ -1,0 +1,7 @@
+.bg{
+    background-image:url(../image/pic1.jfif);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    background-position: center;
+}

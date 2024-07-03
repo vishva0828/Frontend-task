@@ -1,0 +1,76 @@
+h2{
+    color: cornflowerblue;
+    text-align: center;
+}
+h3{
+    color: darkcyan;
+    text-align: center;
+}
+.dotted{
+    border: dotted;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.dashed{
+    border: dashed;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.solid{
+    border: solid;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.double{
+    border: double;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.groove {
+    border: groove;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.ridge {
+    border: ridge;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.inset {
+    border: inset;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.outset {
+    border: outset;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.mixed {
+    border-style:dotted dashed solid double  ;
+    border-width: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.width{
+    height: 150px;
+    width: 400px;
+    border-color: black;
+    border-style: dashed;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    border-top-width: 2px;
+    border-right-width: 5px;
+    border-bottom-width: 7px;
+    border-left-width: 10px;
+}
+

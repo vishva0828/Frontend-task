@@ -1,0 +1,27 @@
+h2{
+    color: darkcyan;
+    text-align: center;
+}
+img{
+    border-radius: 5px;
+}
+.card{
+    height: 500px;
+    width: 250px;
+    border: 2px solid darkslategray;
+    border-radius: 10px;
+    margin: auto;
+}
+.ab{
+    color: cornflowerblue;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bc{
+    color: darkcyan;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}

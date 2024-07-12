@@ -1,54 +1,62 @@
-.inner-container{
+.inner-container {
     border: 2px solid black;
     height: 400px;
     width: 300px;
     border-radius: 5px;
-    
+
 }
-.my-para{
+
+.my-para {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.content{
-    
-            text-align: center;
-            font-family: "Rajdhani",
-                sans-serif;
-            padding: 17px;
-            color: dark rgb(47, 46, 46);
-            margin-top: -29px;
-            }
-        
-.butn{
+
+.content {
+
+    text-align: center;
+    font-family: "Rajdhani",
+        sans-serif;
+    padding: 17px;
+    color: dark rgb(47, 46, 46);
+    margin-top: -29px;
+}
+
+.butn {
     background-color: black;
-        color: bisque;
-        border-radius: 40px;
-        width: 220px;
-        padding: 10px;
-        margin-left: 33px;
-        border: none;
-    }
-.inner{
+    color: bisque;
+    border-radius: 40px;
+    width: 220px;
+    padding: 10px;
+    margin-left: 33px;
+    border: none;
+}
+
+.inner {
     background-color: rgb(227, 43, 104);
     /* border:2px solid black; */
-        height: 400px;
-        width: 300px;
-        border-radius: 6px;
-        color: beige;
+    height: 404px;
+    width: 304px;
+    border-radius: 6px;
+    color: beige;
 
 }
-.button{
+
+.button {
     background-color: white;
     color: rgb(223, 29, 100);
     border-radius: 40px;
-        width: 220px;
-        padding: 10px;
-        margin-left: 33px;
-        border: none;
+    width: 220px;
+    padding: 10px;
+    margin-left: 33px;
+    border: none;
 }
-.main-container{
+
+.main-container {
     display: flex;
-        gap: 39px;
-    }
+    gap: 39px;
+    padding: 50px;
+    margin-left: 100px;
+    
+}

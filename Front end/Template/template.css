@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: "Rokkitt", Georgia, serif;
+    }
+    
+
+.inner-container{
+    /* border: 1px solid black; */
+    
+    width: 88%;
+    display: flex;
+        gap: 30px;
+        margin: auto;
+        margin-top: 65px;
+        /* justify-content: center; */
+}
+.child-container{
+    border: 1px solid rgb(201, 192, 192);
+    height: 395px;
+    width: 320px;
+    
+}
+.content{
+    text-align: center;
+    padding: 20px;
+}
+.con{
+    text-align: center;
+    margin-top: -10px;
+    }
+
+.num{
+    text-align: center;
+    padding: 24px;
+}
+.inner-container-second{
+    /* border: 1px solid black; */
+        /* height: 500px; */
+        width: 88%;
+        display: flex;
+        gap: 30px;
+        margin: auto;
+        margin-top: 35px;
+}
+.inner-container-three {
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    width: 88%;
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    margin-top: 35px;
+}
+.inner-container-four{
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    width: 88%;
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    margin-top: 35px;
+}
+.butn{
+    
+    
+    background-color: rgb(56, 56, 56);
+        color: white;
+        width: 200px;
+        border-radius: -5px;
+        height: 50px;
+        border-radius: 55px;
+        border: none;
+        margin-left: 570px;
+            margin-top: 74px;
+}

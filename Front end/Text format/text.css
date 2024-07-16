@@ -1,0 +1,44 @@
+/* h2{
+    text-align: center;
+    
+    font-family: "Kanit", sans-serif;
+        font-weight: 700;
+} */
+ img{
+    height: 50px;
+    margin-left:282px;
+ }
+.main-container{
+    border: 1px solid rgb(12, 12, 12);
+    height: 700px;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+.main{
+    font-size: 18px;
+}
+.but{
+    background-color: orangered;
+        color: white;
+        padding: 12px;
+        border: 1px solid orangered;
+        border-radius: 3px;
+        margin-top: 45px;
+        margin-left: 295px;
+    }
+.butt{
+    background-color: orangered;
+        color: white;
+        padding: 16px;
+        border: 1px solid orangered;
+        border-radius: 3px;
+    margin-top: 2px;
+        margin-left: 298px;
+    }
+.dot{
+    margin-left: 30px;
+}
+.mainm{
+    font-size: 18px;
+}
